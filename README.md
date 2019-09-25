@@ -60,7 +60,7 @@ Now the file constitutes three major functions –
 
 ### References
 
-The [link](https://brilliant.org/wiki/chain-reaction-game/) helped us to calculate board-value for a given grid.
+This [link](https://brilliant.org/wiki/chain-reaction-game/) helped us to calculate board-value for a given grid.
 
 ### Limitations and bugs
 
